@@ -6,7 +6,6 @@ def loadots():
     start = ''
     graphic = '.'
     iter = 0
-    i = 0
     while iter < 10:
         i = 0
         holder = start
